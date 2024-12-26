@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735200058 source:c:\users\dell\onedrive\documents\strukturdata\tubesstd\tubes\graf.cpp
+	"graf.h"
+
+1735200150 c:\users\dell\onedrive\documents\strukturdata\tubesstd\tubes\graf.h
+	<iostream>
+	<string>
+
+1735200187 source:c:\users\dell\onedrive\documents\strukturdata\tubesstd\tubes\main.cpp
+	"graf.h"
+
